@@ -21,8 +21,8 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/username/repo-crud-pegawai.git
-cd repo-crud-pegawai
+git clone https://github.com/username/repo-Kepegawaian-sederhana.git
+cd repo-Kepegawaian-sederhana
 ```
 
 ### 2️⃣ Buat Database
