@@ -19,11 +19,8 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 
 ## ⚡ Instalasi & Penggunaan
 
-### 1️⃣ Clone Repository
-```sh
-git clone https://github.com/username/repo-Kepegawaian-sederhana.git
-cd repo-Kepegawaian-sederhana
-```
+### 1️⃣ Download Repository
+Unduh repository sebagai ZIP dari GitHub, lalu ekstrak ke dalam folder proyek Anda.
 
 ### 2️⃣ Buat Database
 Import file database ke MySQL:
@@ -64,5 +61,3 @@ Jika Anda ingin berkontribusi, silakan fork repo ini dan buat pull request. Teri
 
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah MIT License. Anda bebas menggunakannya untuk keperluan pribadi atau komersial.
-
-
