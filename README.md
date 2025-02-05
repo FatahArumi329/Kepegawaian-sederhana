@@ -1,4 +1,4 @@
-Kepegawaian Sederhana
+# Kepegawaian Sederhana
 
 ## 📌 Deskripsi
 Web CRUD Pegawai adalah aplikasi berbasis PHP dan MySQL yang memungkinkan pengguna untuk melakukan operasi **Create, Read, Update, dan Delete (CRUD)** pada data pegawai. Aplikasi ini dibuat dengan desain sederhana dan menggunakan **AJAX** untuk pengalaman yang lebih interaktif.
