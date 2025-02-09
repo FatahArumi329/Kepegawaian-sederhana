@@ -14,7 +14,7 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 - PHP (Backend)
 - MySQL (Database kepegawaian)
 - AJAX & JavaScript
-- tailwind CSS untuk styling
+- tailwind CSS untuk styling (Internet harus ada untuk tampilan tailwind CSS)
 
 ## ⚡ Instalasi & Penggunaan
 ### 1️⃣ Persiapan
