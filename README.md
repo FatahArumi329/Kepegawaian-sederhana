@@ -23,7 +23,7 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 
 ### 2️⃣ Database
 - Buat database dengan nama **kepegawaian**
-- Sebelum import database, ganti nama file **database/MySQL_IF-10_Kepegawaian.sql** dengan nama **kepergawaian**
+- Sebelum import database, ganti nama file **database/MySQL_IF-10_Kepegawaian.sql** dengan nama **kepergawaian.sql**
 - Import file **database/kepegawaian.sql** ke dalam database
 
 ### 3️⃣ Akses Aplikasi
