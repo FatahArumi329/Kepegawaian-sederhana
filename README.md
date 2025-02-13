@@ -30,19 +30,6 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 - Buka browser
 - Akses: `http://localhost/{nama folder}/`
 
-## 🏗️ Struktur Proyek
-```
-Kerpegawaian/
-│── index.php          # Halaman utama
-│── pegawai.php        # Manajemen pegawai
-│── jabatan.php        # Manajemen jabatan
-│── absensi.php        # Manajemen absensi
-│── assets/            # Folder untuk CSS & JS
-│── database/          
-│   └── kepegawaian.sql  # File database
-└── includes/          # Folder untuk koneksi database dan fungsi tambahan
-```
-
 ## 🤝 Kontribusi
 Bebas digunakan untuk referensi pembelajaran.
 
