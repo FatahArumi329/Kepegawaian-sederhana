@@ -34,10 +34,11 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
     cd /c/XAMPP/htdocs
     git clone https://github.com/FatahArumi329/Kepegawaian-sederhana.git
     ```
-- Letakkan/Ekstrak folder proyek di **XAMPP/htdocs**.
+- Letakkan/Ekstrak folder proyek di 'XAMPP/htdocs'.
 
 ### 2️⃣ Database
 - Buat database dengan nama **kepegawaian**.
+- Masuk ke folder proyek
 - Sebelum mengimpor database, ganti nama file **.sql** di folder **database/.sql*** menjadi **kepegawaian.sql**.
 - Import file **database/kepegawaian.sql** ke dalam database melalui **phpMyAdmin**.
 
