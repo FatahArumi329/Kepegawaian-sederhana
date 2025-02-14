@@ -14,22 +14,29 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 - PHP (Backend)
 - MySQL (Database kepegawaian)
 - AJAX & JavaScript
-- tailwind CSS untuk styling (Internet harus ada untuk tampilan tailwind CSS)
+- Tailwind CSS untuk styling (Internet harus tersedia untuk tampilan Tailwind CSS)
 
 ## ⚡ Instalasi & Penggunaan
+
 ### 1️⃣ Persiapan
-- Pastikan **XAMPP** sudah terinstall
-- Download source code di https://github.com/FatahArumi329/Kepegawaian-sederhana/releases/tag/learning] atau di **Drive_anda/XAMPP/htdocs/** lakukan di Git bash **git clone git clone https://github.com/FatahArumi329/Kepegawaian-sederhana.git**
-- Letakkan/Ektrak folder proyek di **XAMPP/htdocs**
+- Pastikan **XAMPP** sudah terinstal.
+- Download source code dengan salah satu cara berikut:
+  - 🔗 [Download dari Release](https://github.com/FatahArumi329/Kepegawaian-sederhana/releases/tag/learning)
+  - **Melalui Git Clone:**
+    ```bash
+    cd /c/XAMPP/htdocs
+    git clone https://github.com/FatahArumi329/Kepegawaian-sederhana.git
+    ```
+- Letakkan/Ekstrak folder proyek di **XAMPP/htdocs**.
 
 ### 2️⃣ Database
-- Buat database dengan nama **kepegawaian**
-- Sebelum import database, ganti nama file **.sql** di **database/.sql*** dengan nama **kepegawaian.sql**
-- Import file **database/kepegawaian.sql** ke dalam database
+- Buat database dengan nama **kepegawaian**.
+- Sebelum mengimpor database, ganti nama file **.sql** di folder **database/.sql*** menjadi **kepegawaian.sql**.
+- Import file **database/kepegawaian.sql** ke dalam database melalui **phpMyAdmin**.
 
 ### 3️⃣ Akses Aplikasi
-- Buka browser
-- Akses: `http://localhost/{nama folder}/`
+- Buka browser.
+- Akses: `http://localhost/Kepegawaian-sederhana/`
 
 ## 🤝 Kontribusi
 Bebas digunakan untuk referensi pembelajaran.
