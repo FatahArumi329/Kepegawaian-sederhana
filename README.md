@@ -19,7 +19,8 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 ## ⚡ Instalasi & Penggunaan
 ### 1️⃣ Persiapan
 - Pastikan **XAMPP** sudah terinstall
-- Letakkan folder proyek di **htdocs**
+- Download source code [https://github.com/FatahArumi329/Kepegawaian-sederhana/releases/tag/learning] atau di **Drive_anda/XAMPP/htdocs/** lakukan di Git bash **git clone https://github.com/FatahArumi329/Kepegawaian-sederhana**
+- Letakkan/Ektrak folder proyek di **XAMPP/htdocs**
 
 ### 2️⃣ Database
 - Buat database dengan nama **kepegawaian**
