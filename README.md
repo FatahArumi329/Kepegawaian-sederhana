@@ -1,3 +1,10 @@
+<p align="center"><a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="400" alt="PHP Logo"></a></p>
+<p align="center">
+<a href="https://www.php.net/releases/"><img src="https://img.shields.io/badge/PHP-Stable-blue" alt="PHP Stable Version"></a>
+<a href="https://www.php.net/downloads"><img src="https://img.shields.io/badge/Downloads-Millions-green" alt="Total Downloads"></a>
+<a href="https://www.php.net/license/3_01.txt"><img src="https://img.shields.io/badge/License-PHP_3.01-orange" alt="License"></a>
+</p>
+
 # Aplikasi CRUD Kepegawaian Sederhana
 
 ## 📌 Deskripsi
