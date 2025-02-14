@@ -39,6 +39,7 @@ Aplikasi CRUD Kepegawaian adalah aplikasi berbasis PHP dan MySQL yang memungkink
 - Akses: `http://localhost/Kepegawaian-sederhana/`
 
 ## 🤝 Kontribusi
+- FatahArumi329 (saya)
 Bebas digunakan untuk referensi pembelajaran.
 
 ## 📜 Lisensi
